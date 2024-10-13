@@ -6,7 +6,7 @@
 ##############################################################
 
 
-AESDCHAR_VERSION = 7d87d068d95e13e123143c4e72e75004c5ca6270
+AESDCHAR_VERSION = 92523e69a98127f86a187d70149fb4527a962fb9
 AESDCHAR_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-AntonioMR.git
 AESDCHAR_SITE_METHOD = git
 AESDCHAR_GIT_SUBMODULES = YES
